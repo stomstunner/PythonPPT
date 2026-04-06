@@ -1,6 +1,6 @@
 # If we want to check all the bult in modules -> used by python Interpretor
 
-# help("modules")
+help("modules")
 
 
 #-----------------------------------
