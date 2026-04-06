@@ -3,9 +3,9 @@
 #  venv\Scripts\activate
 
 # then hame terminal me 
-pip install numpy
-pip install pandas
-pip install ipykernel
+# pip install numpy
+# pip install pandas
+# pip install ipykernel
 
 # likhna hai install kar lena hai 
 # then hame .ipynb se file banana hai
